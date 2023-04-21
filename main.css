@@ -56,7 +56,7 @@ Section{
 /*home start*/
 .home{
     height: 100vh;
-    background:linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(images/classroom.jpeg) no-repeat; 
+    background:linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(classroom.jpeg) no-repeat; 
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
